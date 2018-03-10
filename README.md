@@ -1,4 +1,6 @@
 # LearnWeex
 LearnWeex
 # 1
-add github
+VSCode connect GitHub
+# 2 
+init weex-project
